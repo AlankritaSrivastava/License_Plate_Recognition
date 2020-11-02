@@ -66,7 +66,5 @@ In order to read car plates, first detected characters using connected contours 
 4.	The results are aggregated in the dataframe which is saved in excel format. [Open Result](https://github.com/AlankritaSrivastava/License_Plate_Recognition/blob/master/Results.csv)
 
 ## Accuracy Metrics:
-The actual and predicted labels are compared and following metrics were found
-  * Out of 133 test images, 66 images were correctly predicted (all the characters in the given sequence).
-  * Accuracy = (66/133)*100 ~ 50%
-
+The actual and predicted labels are compared and out of 133 test images, 66 images were correctly predicted (all the characters in the given sequence).
+## Accuracy = (66/133)*100 ~ 50%
