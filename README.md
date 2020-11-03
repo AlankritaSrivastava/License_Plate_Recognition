@@ -1,4 +1,4 @@
-# License_Plate_Recognition
+# License-Plate-Recognition
 
 Licence plate recognition is used in car licence plate identification system where the system tries to identify the character on the number plate.
 
